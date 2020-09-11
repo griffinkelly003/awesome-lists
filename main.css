@@ -1,0 +1,26 @@
+h1 {
+    color: red;
+    font-size: 24px;
+    text-align: center;
+}
+
+.odd {
+    color: blue;
+}
+
+.even {
+    color: green;
+    text-transform: uppercase;
+}
+
+#hed1 {
+    color: black;
+}
+
+.up {
+    text-transform: uppercase;
+}
+
+p {
+    font-family: georgia, serif
+}
